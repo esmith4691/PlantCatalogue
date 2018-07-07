@@ -1,3 +1,5 @@
 packages
 *.sln
 .vs
+*/obj/debug
+*/bin
