@@ -4,5 +4,5 @@ packages
 */obj/debug
 */bin
 */*.csproj
-*/*.cs.proj.user
+*/*.csproj.user
 */App_Data
