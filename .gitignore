@@ -5,3 +5,4 @@ packages
 */bin
 */*.csproj
 */*.cs.proj.user
+*/App_Data
